@@ -1,1 +1,1 @@
-# manga-yolo
+# MANGA-YOLO
